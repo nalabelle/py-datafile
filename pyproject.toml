@@ -6,7 +6,7 @@ authors = ["nalabelle <nalabelle@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
-dataclasses-yaml = {git = "https://github.com/nalabelle/py-dataclasses_yaml.git", rev = "main"}
+dataclasses-yaml = {git = "https://github.com/nalabelle/py-dataclasses_yaml.git", rev = "21676095084caa1072e8b5c2e1621e9c541bf5aa"}
 
 [tool.poetry.dev-dependencies]
 
